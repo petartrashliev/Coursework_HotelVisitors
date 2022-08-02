@@ -21,7 +21,7 @@ There are various options for reference:<br>
 4/Reference
 ![4](https://user-images.githubusercontent.com/78430729/169808789-7806daf4-9910-4f8e-9f61-311deda75051.png)<br>
  ##   ##
-######  Languages:
+
 ###### The design of the project was done in Figma. All photos in this project: https://unsplash.com/
   ##  ##
   
